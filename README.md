@@ -6,6 +6,16 @@ An interactive Employee Analytics Dashboard developed using Microsoft Power BI t
 
 ![Employee Analytics Dashboard](Employee.png)
 
+---
+
+## 🔗 Live Dashboard
+
+👉 **[Click here to view the interactive Power BI Dashboard]([https://tinyurl.com/yxr3n9a2](https://app.powerbi.com/view?r=eyJrIjoiZjUyMTk5NWUtMzI4ZC00NmEwLTk3YjAtNjM2MjdkMWExNDJiIiwidCI6IjNkNjFhOTViLTczMjktNDdhYi1iNGZiLTMwYWEwYWMwZGMzNSJ9))**
+
+---
+
+
+
 ## Key KPIs
 
 - Total Employees
