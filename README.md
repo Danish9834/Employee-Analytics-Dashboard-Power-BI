@@ -10,10 +10,9 @@ An interactive Employee Analytics Dashboard developed using Microsoft Power BI t
 
 ## 🔗 Live Dashboard
 
-👉 **[Click here to view the interactive Power BI Dashboard]((https://app.powerbi.com/view?r=eyJrIjoiZjUyMTk5NWUtMzI4ZC00NmEwLTk3YjAtNjM2MjdkMWExNDJiIiwidCI6IjNkNjFhOTViLTczMjktNDdhYi1iNGZiLTMwYWEwYWMwZGMzNSJ9))**
+👉 **[Click here to view the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjUyMTk5NWUtMzI4ZC00NmEwLTk3YjAtNjM2MjdkMWExNDJiIiwidCI6IjNkNjFhOTViLTczMjktNDdhYi1iNGZiLTMwYWEwYWMwZGMzNSJ9)**
 
 ---
-
 
 
 ## Key KPIs
