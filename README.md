@@ -72,3 +72,16 @@ CALCULATE(
     COUNTROWS(Employees),
     Employees[Status] = "Active"
 )
+
+## 👨‍💻 Author
+**Syed Danish**  
+Aspiring Data Analyst | Power BI | Python | SQL  
+
+GitHub: https://github.com/Danish9834
+---
+
+If you found this project useful, feel free to ⭐ the repository.
+
+
+
+
